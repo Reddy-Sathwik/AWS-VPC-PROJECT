@@ -1,0 +1,10 @@
+▪ Created a secure VPC environment with both public and private
+subnets, ensuring proper network segmentation and access controls.
+▪ Deployed and managed EC2 instances across private and public
+subnets, optimizing performance, security, and scalability.
+▪ Created a bastion host in the public subnet to securely manage and
+access the EC2 instances in the private subnet.
+▪ Implemented load balancer to evenly distribute traffic across multiple
+EC2 instances in the private subnet and integrated auto-scaling to
+dynamically adjust instance capacity based on demand, ensuring high
+availability, scalability, and cost-efficiency.
